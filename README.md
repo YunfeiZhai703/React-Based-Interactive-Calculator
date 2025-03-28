@@ -116,7 +116,7 @@ To perform aggregation calculations on selected elements:
 ![Calculation result dialog](images/Pasted%20image%2020250328214910.png)
 
 _Note:_ Currently, aggregation methods only support calculations on a single column. If multiple columns are selected, a warning will prompt you to choose only one column.
-![Multiple columns warning](images/Pasted%20image%202025032820318.png) 
+![Multiple columns warning](images/Pasted%20image%202025032820318.png)
 
 ##### Using the Calculator Panel
 To perform aggregation calculations on selected elements:
