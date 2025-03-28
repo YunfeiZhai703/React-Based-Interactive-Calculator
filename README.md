@@ -86,11 +86,11 @@ When calculation mode is activated, simply select one or more cells to reveal a 
 If you prefer a fixed position for the calculator, drag it to your desired spot. A "Restore Position" button is available to return the toolbar to its dynamic placement.
 ![Fixed position calculator](images/Pasted%20image%2020250328214144.png)
 
-##### Calculator panel
+### Calculator panel
 For a more advanced experience, click the expand button located at the bottom left of the floating calculator. This expands the toolbar to a panel on the right side of the app, where all features are displayed. To revert to the floating toolbar, click the collapse button at the top right corner of the panel.
 ![Expanded calculator panel](images/Pasted%20image%2020250328214345.png)
 
-##### Switching between
+### Switching between
 You can toggle between the floating calculator and the expanded panel at any time using the respective collapse and expand buttons.
 ### Performing Aggregation Calculations
 You can perform aggregation calculations using either the floating calculator or the calculator panel.
